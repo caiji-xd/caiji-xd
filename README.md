@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @caiji-xd
 - 👀 I’m interested in minecraft
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me：QQ:340854013 email:fanjunyan2009@sina.com
+- 😄 霸气盈胸，高山有顶我为峰
+- ⚡ Fun fact: the size of minecraft ZJGMS is 11.45MB and contained several easter eggs
 
 <!---
 caiji-xd/caiji-xd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
