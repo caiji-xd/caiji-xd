@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caiji-xd
+- 👋 Hi, I’m caiji-xd#20240461
 - 👀 I’m interested in minecraft
 - 🌱 I’m currently learning python
 - 📫 How to reach me：QQ:340854013 email:fanjunyan2009@sina.com
