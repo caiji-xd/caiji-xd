@@ -1,8 +1,8 @@
-- 👋 Hi, I’m caiji-xd#20240461
+- 👋 Hi, I’m caiji-xd#~~20240461~~271438
 - 👀 I’m interested in minecraft
-- 🌱 I’m currently learning python
+- 🌱 I’m ~~currently~~ learning python
 - 📫 How to reach me：QQ:340854013 email:fanjunyan2009@sina.com
-- 😄 霸气盈胸，高山有顶我为峰
+- 😄 
 - ⚡ Fun fact: the size of minecraft ZJGMS is 11.45MB and contained several easter eggs
 
 <!---
